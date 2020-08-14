@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "next": "^9.5.2",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
