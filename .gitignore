@@ -2,6 +2,8 @@
 # .gitignore #
 # ---------- #
 
+### NodeJS ###
+
 # Logs
 logs
 *.log
@@ -11,5 +13,8 @@ yarn-error.log*
 
 # Dependency directories
 node_modules/
+
+# next.js build output
+.next
 
 # EOF #
