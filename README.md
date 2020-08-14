@@ -14,6 +14,8 @@
 
 ```md
 .
+├── components
+├── pages
 ├── .commitlintrc.json
 ├── .editorconfig
 ├── .gitignore
