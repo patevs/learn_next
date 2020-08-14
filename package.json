@@ -14,8 +14,13 @@
     "git": ">=2.13.2"
   },
   "scripts": {
-    "release": "np",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint **/*.js",
+    "lint:fix": "eslint --fix **/*.js",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "release": "np"
   },
   "dependencies": {
     "next": "^9.5.2",
