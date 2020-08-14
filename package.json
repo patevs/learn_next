@@ -17,7 +17,9 @@
     "release": "np",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "next": "^9.5.2"
+  },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
     "commitlint-config-gitmoji": "^1.0.1",
