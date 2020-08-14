@@ -1,15 +1,12 @@
-# Semantic Template
+# Learn Next
 
-> A Template repository for semantically versioned projects.
+> Links, resources, and code related to my learning of the `next.js` JavaScript framework.
 
 ---
 
 ## Links & Resources
 
-* [`commitlint`](https://github.com/conventional-changelog/commitlint) Lint commit messages.
-  * [`commitlint-config-gitmoji`](https://github.com/arvinxx/commitlint-config-gitmoji) Commitlint config enforcing gitmoji rules.
-* [`husky`](https://github.com/typicode/husky) Git hooks made easy.
-* [`np`](https://github.com/sindresorhus/np) A better npm publish.
+* [Getting Started](https://nextjs.org/learn/basics/getting-started/setup)
 
 ---
 
