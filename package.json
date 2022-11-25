@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
-    "commitlint-config-gitmoji": "^2.2.5",
+    "commitlint-config-gitmoji": "^2.2.6",
     "eslint": "^8.13.0",
     "eslint-config-react-app": "^7.0.0",
     "eslint-friendly-formatter": "^4.0.1",
