@@ -20,7 +20,7 @@
     "lint": "eslint **/*.js",
     "lint:fix": "eslint --fix **/*.js",
     "test": "echo \"Error: no test specified\" && exit 0",
-    "release": "np"
+    "release": "npx np"
   },
   "dependencies": {
     "next": "^12.1.4",
