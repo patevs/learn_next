@@ -14,17 +14,17 @@
 
 ```md
 .
-├── .husky               # `husky` configuration
+├── .husky               # Husky configuration
 ├── components           # Site components
 ├── pages                # Site pages
-├── .commitlintrc.json   # `commitlint` configuration
+├── .commitlintrc        # Commitlint configuration
 ├── .editorconfig        # Editor configuration
-├── .eslintrc.json       # `eslint` configuration
-├── .gitignore           # `git` ignore rules
-├── .np-config.json      # `npm` publish (`np`) configuration
-├── LICENSE              # Project license
-├── package.json         # `npm` package configuration
-└── README.md            # Project readme
+├── .eslintrc.json       # ESLint configuration
+├── .gitignore           # Git ignore rules
+├── .np-config.json      # NPM publish (np) configuration
+├── LICENSE              # Project LICENSE
+├── package.json         # NPM package configuration
+└── README.md            # Project README
 ```
 
 ---
