@@ -10,16 +10,17 @@ import Link from 'next/link'
 const containerStyle = {
     padding: 10,
     margin: '0 auto',
-    width: '35%',
-    border: '1px solid #ABABAB'
+    width: '66%',
+    borderBottom: '1px solid #ABABAB'
 }
 
 const linkStyle = {
-    marginRight: 16,
-    marginLeft: 16,
+    marginTop: 4,
+    marginRight: '2em',
+    marginLeft: '2em',
     padding: 4,
-    paddingLeft: 16,
-    paddingRight: 16
+    paddingLeft: 32,
+    paddingRight: 32,
 }
 
 // Header component
