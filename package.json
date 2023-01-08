@@ -29,7 +29,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
+    "@commitlint/cli": "^17.4.0",
     "commitlint-config-gitmoji": "^2.2.9",
     "eslint": "^8.28.0",
     "eslint-config-react-app": "^7.0.1",
