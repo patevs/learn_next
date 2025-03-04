@@ -13,7 +13,7 @@
     "npm": ">=6.8.0"
   },
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky",
     "predev": "npx open-cli http://localhost:3000",
     "dev": "next",
     "build": "next build",
